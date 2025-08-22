@@ -29,6 +29,8 @@ echo "Nombre: $nombre\n";
 echo "Edad: $edad\n";
 echo "----------------\n";
 
+
+
 // Opcional: Guardar en archivo (descomentar para usar)
 // file_put_contents('datos.txt', "Nombre: $nombre, Edad: $edad\n", FILE_APPEND);
 ?>

@@ -1,0 +1,5 @@
+num1 = int (input ("INGRESE DATO "))
+num2 = int (input ("INGRESE DATO "))
+print (num1 + num2)
+print (num1 * num2)
+print (num1 - num2)
